@@ -1,0 +1,15 @@
+.project-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  max-height: 155vh;
+}
+
+.project {
+  width: 31%;
+  height: 100%;
+  margin: 5px;
+}
